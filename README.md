@@ -1,5 +1,5 @@
 
-# 📊 Job Market Analyzer: Web Scraping & Skill Demand Visualization ---ElevvoPathways-Data-analytics
+# 📊 Job Market Analyzer: Web Scraping & Skill Demand Visualization - ElevvoPathways-Data-analytics
 
 > *Scrape. Clean. Analyze. Visualize. Understand what skills employers want — by city.*
 
